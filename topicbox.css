@@ -1,0 +1,20 @@
+.topicbox {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+    font-size: large;
+    font-weight: 500;
+}
+.btn{
+    padding: 10px;
+    margin: 10px;
+    width: 80px;
+    height: 50px;
+    border-radius: 20px;
+    color:black;
+    background-color: aliceblue;
+}
+
+.btn:hover{
+    color:aliceblue;
+    background-color: black;
+}
